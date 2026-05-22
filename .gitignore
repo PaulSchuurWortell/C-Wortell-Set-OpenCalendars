@@ -1,0 +1,13 @@
+# Credentials and secrets
+*.pfx
+*.cer
+*.key
+
+# PowerShell
+*.ps1xml
+
+# VS Code
+.vscode/
+
+# Azure Automation local overrides
+*.local.ps1
